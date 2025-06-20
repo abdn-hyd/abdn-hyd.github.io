@@ -17,10 +17,8 @@ Welcome to my personal portfolio! I'm a graduate student from University of Aber
 ### Working Experience
 
 * **Big Data Analytics Intern** | Xiaopeng | June 2024 – Aug 2024
-      * Fulfilled data collection and image screening duties for an autonomous parking project; established corner
-cases for parking scenarios and satisfy the data requirements for AVM-BEV-FSD.
-      * Executed view stitching of parking scenarios using the IPS model; leveraged the Redash platform to verify
-whether the daily volume of image collection meets requirements; traced dirty data and analyzed causes.
+    * Fulfilled data collection and image screening duties for an autonomous parking project; established corner cases for parking scenarios and satisfy the data requirements for AVM-BEV-FSD.
+    * Executed view stitching of parking scenarios using the IPS model; leveraged the Redash platform to verify whether the daily volume of image collection meets requirements; traced dirty data and analyzed causes.
 
 ---
 
