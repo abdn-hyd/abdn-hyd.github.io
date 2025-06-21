@@ -10,7 +10,9 @@ Welcome to my personal portfolio! I'm a graduate student from University of Aber
 
 ### Education
 
-* **First Class Honors** | University of Aberdeen | Sep 2021 – July 2025
+* **First Class Honors**, Bachelor of Science in Artificial Intelligence
+    * University of Aberdeen
+    * Sep 2021 – July 2025
 
 ---
 
